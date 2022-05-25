@@ -1,4 +1,4 @@
-package com.company.bean;
+package com.company.feature.bean;
 
 import java.util.Date;
 

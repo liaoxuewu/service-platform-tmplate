@@ -1,6 +1,6 @@
-package com.company.mapper;
+package com.company.feature.mapper;
 
-import com.company.bean.AppMessage;
+import com.company.feature.bean.AppMessage;
 
 import java.util.List;
 

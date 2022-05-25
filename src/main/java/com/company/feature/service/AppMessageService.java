@@ -1,11 +1,11 @@
-package com.company.service;
+package com.company.feature.service;
 
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.company.bean.AppMessage;
-import com.company.mapper.AppMessageMapper;
+import com.company.feature.bean.AppMessage;
+import com.company.feature.mapper.AppMessageMapper;
 @Service
 public class AppMessageService {
 

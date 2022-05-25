@@ -1,13 +1,13 @@
-package com.example.newsmanage;
+package com.company.feature;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NewsManageApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(NewsManageApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
